@@ -1,0 +1,7 @@
+terraform/.terraform
+tic
+terraform/terraform
+terraform/personal.auto.tfvars
+terraform/.terraform.lock.hcl
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
